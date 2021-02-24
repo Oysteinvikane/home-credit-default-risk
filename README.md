@@ -4,27 +4,30 @@ Can you predict how capable each applicant is of repaying a loan?
 
 
 # Get the data
-Installer først kaggle:
+Install kaggle:
 ```bash
 pip install kaggle
 ```
-Den kommer til å ligge på /users/<navnetderes>/.kaggle
+It will be @ /users/<navnetderes>/.kaggle
 
-gå til https://www.kaggle.com/<navnetderes>/account
+Go to https://www.kaggle.com/<navnetderes>/account
 
-Create New API Token og plasser den i :
+Create a new API Token and put it in :
 ```bash
 ~/.kaggle/kaggle.json
 ```
 
-Kjør deretter
+run
 ```bash
 kaggle competitions download -c home-credit-default-risk
 ```
 
-Unzip filen i oppgavens directory og prøv å kjøre
+Unzip file in directory
 ```bash
 jupyter notebook
 ```
-Sjekk at homeCreditDefaultRisk.ipynb fungerer
-Vær så god 
+Check that homeCreditDefaultRisk.ipynb runs
+
+This was a project we had during DAT158 course @HVL
+Colab between me, Fredrik Mørk and Kristoffer Perminow.
+ 
