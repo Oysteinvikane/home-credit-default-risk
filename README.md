@@ -28,6 +28,6 @@ jupyter notebook
 ```
 Check that homeCreditDefaultRisk.ipynb runs
 
-This was a project we had during DAT158 course @HVL
+This was a project we had during DAT158 course @HVL, 
 Colab between me, Fredrik Mørk and Kristoffer Perminow.
  
